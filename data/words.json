@@ -1,0 +1,34 @@
+{
+    "English": {
+        "beginner": {
+            "food": [
+                {"word": "apple", "definition": "A common fruit"},
+                {"word": "bread", "definition": "Baked food made from flour"}
+            ],
+            "animals": [
+                {"word": "cat", "definition": "A small domesticated carnivorous mammal"},
+                {"word": "dog", "definition": "A domesticated canid"}
+            ]
+        },
+        "intermediate": {
+            "colors": [
+                {"word": "turquoise", "definition": "A blue-green color"},
+                {"word": "magenta", "definition": "A purplish-red color"}
+            ]
+        },
+        "advanced": {
+            "science": [
+                {"word": "photosynthesis", "definition": "Process by which plants make food"},
+                {"word": "quintessence", "definition": "The most perfect or typical example"}
+            ]
+        }
+    },
+    "French": {
+        "beginner": {
+            "food": [
+                {"word": "pomme", "definition": "Un fruit"},
+                {"word": "fromage", "definition": "Produit laitier"}
+            ]
+        }
+    }
+}
